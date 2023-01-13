@@ -1,11 +1,12 @@
 import React from 'react';
-import '../Header.css'
+import '../Header.css';
+import headshot from '../Assets/IMG_5042.jpg'
 
 export default function Home() {
   return (
-    <div class="homepage">
+    <div>
       <h1 class="home-header">Welcome to my Portfolio!</h1>
-      <img src="./public/IMG_5042.jpg" alt="Berekt Ashenafi"></img>
+      <img src= {headshot} alt="Berekt Ashenafi"></img>
     <h5 class="desc-home">
     Hello, my name is Berekt Ashenafi and I am a Full-stack Web Developer with a passion for creating apps and contributing to the future of technology. 
     </h5>
