@@ -81,3 +81,8 @@
     color: rgb(41, 41, 208);
     margin: 3%;
 }
+
+#card{
+    display: flex;
+    flex-direction: row;
+}

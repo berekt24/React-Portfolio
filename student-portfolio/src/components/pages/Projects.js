@@ -5,7 +5,7 @@ export default function Projects() {
     const projectsArray = [
         {
             title:"More Than A Game",
-            desc:"project 1",
+            desc:"",
             img: project1,
             github:"",
             deployed:""
