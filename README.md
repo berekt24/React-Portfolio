@@ -19,6 +19,7 @@ This project's purpose is to create a portfolio using my new React skills, which
 
   ## Screenshot
 
+![Screen Shot 2023-01-14 at 3 23 06 PM](https://user-images.githubusercontent.com/114173723/212495450-f3697333-5758-4f80-94a4-2cdd7d196390.png)
 
 
   ## Questions
