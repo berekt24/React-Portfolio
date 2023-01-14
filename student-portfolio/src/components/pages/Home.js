@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <h1 class="home-header">Welcome to my Portfolio!</h1>
-      <img src= {headshot} alt="Berekt Ashenafi"></img>
+      <img className="col-2" id="img" src= {headshot} alt="Berekt Ashenafi"></img>
     <h5 class="desc-home">
     Hello, my name is Berekt Ashenafi and I am a Full-stack Web Developer with a passion for creating apps and contributing to the future of technology. 
     </h5>
@@ -14,6 +14,7 @@ export default function Home() {
     Some of the skills I have include:
     </h4>
     <ul class="skills-list">
+        <li class="skills-row-1">
     <li>
         HTML
     </li>
@@ -29,9 +30,15 @@ export default function Home() {
     <li>
         Node JS
     </li>
+    </li>
+    <li class="skills-row-2">
+    <li>
+        MongoDB
+    </li>
     <li>
         SQL
     </li>
+    
     <li>
        Web APIs
     </li>
@@ -40,6 +47,13 @@ export default function Home() {
     </li>
     <li>
         Express
+    </li>
+    <li>
+        Github
+    </li>
+    <li>
+        Slack
+    </li>
     </li>
     </ul>
     </div>
