@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.e1d4f2ca.css",
-    "main.js": "/React-Portfolio/static/js/main.045397dc.js",
+    "main.css": "/React-Portfolio/static/css/main.1988bb28.css",
+    "main.js": "/React-Portfolio/static/js/main.f00ffa42.js",
     "static/media/SneakersPeak.png": "/React-Portfolio/static/media/SneakersPeak.61441acacd50fdff0d30.png",
     "static/media/IMG_5042.jpg": "/React-Portfolio/static/media/IMG_5042.f0483c58b28446438710.jpg",
     "static/media/MoreThanAGame.png": "/React-Portfolio/static/media/MoreThanAGame.3726445d32202a9030cd.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.e1d4f2ca.css.map": "/React-Portfolio/static/css/main.e1d4f2ca.css.map",
-    "main.045397dc.js.map": "/React-Portfolio/static/js/main.045397dc.js.map"
+    "main.1988bb28.css.map": "/React-Portfolio/static/css/main.1988bb28.css.map",
+    "main.f00ffa42.js.map": "/React-Portfolio/static/js/main.f00ffa42.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1d4f2ca.css",
-    "static/js/main.045397dc.js"
+    "static/css/main.1988bb28.css",
+    "static/js/main.f00ffa42.js"
   ]
 }
