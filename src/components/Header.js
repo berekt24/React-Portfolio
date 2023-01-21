@@ -1,5 +1,5 @@
 import React from 'react';
-import '../components/Header.css';
+import './Header.css';
 
 
 // Here we are using object destructuring assignment to pluck off our variables from the props object
