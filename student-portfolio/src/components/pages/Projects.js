@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Header.css';
 import project1 from '../Assets/MoreThanAGame.png'
 import project2 from '../Assets/SneakersPeak.png'
 export default function Projects() {
@@ -26,7 +27,7 @@ export default function Projects() {
       class="projects-container"
       style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center'}}>
      {projectsArray.map(project =>(
-        <div className="card" style= {{width: "18rem"}}>
+        <div class="card" style= {{width: "18rem", border:'solid', margin: '2%'}}>
         <img src={project.img} className="card-img-top" alt="..." />
         <div className="card-body">
           <h5 className="card-title">{project.title}</h5>
