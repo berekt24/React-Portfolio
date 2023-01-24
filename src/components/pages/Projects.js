@@ -2,6 +2,7 @@ import React from 'react';
 import '../Header.css';
 import project1 from '../Assets/MoreThanAGame.png'
 import project2 from '../Assets/SneakersPeak.png'
+import project3 from '../Assets/misogi.png'
 export default function Projects() {
     const projectsArray = [
         {
@@ -15,9 +16,16 @@ export default function Projects() {
             title:"SneakersPeak",
             desc:"This app is a place to view the latest sneakers and comment your thoughts on each one. It also has a page with links to other fashion websites similiar to this one.",
             img: project2,
-            github:"",
-            deployed:""
+            github:"https://github.com/menelik08/Group-1-pro-2",
+            deployed:" https://safe-lake-28734.herokuapp.com/"
         },
+        {
+          title:"Misogi",
+          desc:"This app is a website for a nonprofit organization that beings awareness to recycling ocean pollution plactics and turning them into clothing. This site is a fullstack MERN project.",
+          img: project3,
+          github:"https://github.com/LindsayK82/Misogi",
+          deployed:"https://misogi.herokuapp.com/"
+      },
     ] 
   return (
     
