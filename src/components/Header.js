@@ -50,7 +50,7 @@ function Header({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-            href="https://drive.google.com/file/d/1wQa7uHT3e1s0YhVBrQKEbRSCesSvm9fI/view?usp=sharing" target="_blank"
+            href="https://drive.google.com/file/d/1_k-HEWsyIPtmbdR718wg8hCf5g4WwrVU/view?usp=sharing" target="_blank"
           
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}

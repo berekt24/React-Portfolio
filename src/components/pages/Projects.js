@@ -14,14 +14,14 @@ export default function Projects() {
         },
         {
             title:"SneakersPeak",
-            desc:"This app is a place to view the latest sneakers and comment your thoughts on each one. It also has a page with links to other fashion websites similiar to this one.",
+            desc:"This app is a place to view the latest sneakers and comment your thoughts on each one. It also has a page with links to other fashion websites similar to this one. The skills used include: HTML, CSS, Javascript, Handlebars, MySQL, Bootstrap, API.",
             img: project2,
             github:"https://github.com/menelik08/Group-1-pro-2",
             deployed:" https://safe-lake-28734.herokuapp.com/"
         },
         {
           title:"Misogi",
-          desc:"This app is a website for a nonprofit organization that beings awareness to recycling ocean pollution plactics and turning them into clothing. This site is a fullstack MERN project.",
+          desc:"This app is a website for a nonprofit organization that brings awareness to recycling ocean pollution plastics and turning them into clothing. This site is a fullstack MERN project. The skills used include: MongoDB, Express, React, Node, CSS, Bootstrap, HTML.",
           img: project3,
           github:"https://github.com/LindsayK82/Misogi",
           deployed:"https://misogi.herokuapp.com/"
